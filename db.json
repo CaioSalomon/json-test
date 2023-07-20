@@ -1,9 +1,87 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Olhos",
+      "descricao": "Wink-pink sai facil",
+      "imagem": "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/4a34daf88eacc51b/UserAssets/dalle-f7b03b25-71d6-462c-8318-197dbc3d8c580251712534551337087500.jpg&dcHint=BrazilSouth&fileToken=fe83367a-eb17-4d98-bd68-99fdb45d58b4"
+    },
+    {
+      "id": 2,
+      "titulo": "labios",
+      "descricao": "Uma pele Assustadoramente bela",
+      "imagem": "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/4a34daf88eacc51b/UserAssets/dalle-a0ea6d9e-0595-4619-912a-cc398b40cd400251712518461470979900.jpg&dcHint=BrazilSouth&fileToken=fe83367a-eb17-4d98-bd68-99fdb45d58b4"
+    },
+    {
+      "id": 3,
+      "titulo": "Face",
+      "descricao": "Uma pele macia",
+      "imagem": "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/4a34daf88eacc51b/UserAssets/dalle-d858a6cc-de90-4ead-a707-477dfc9c20950251712517431804387600.jpg&dcHint=BrazilSouth&fileToken=fe83367a-eb17-4d98-bd68-99fdb45d58b4"
+    },
+    {
+      "id": 4,
+      "titulo": "Unhas",
+      "descricao": "Encera até panela",
+      "imagem": "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/4a34daf88eacc51b/UserAssets/dalle-18422753-c304-4400-9e24-9a1780c933ef0251712515287172042500.jpg&dcHint=BrazilSouth&fileToken=fe83367a-eb17-4d98-bd68-99fdb45d58b4"
+    },
+    {
+      "id": 5,
+      "titulo": "Perfume",
+      "descricao": "Com ativos que cuidam do seu cheiro",
+      "imagem": "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/4a34daf88eacc51b/UserAssets/dalle-4db7ad06-d7ce-4b50-99b3-21839cfd8f0d0251712515197805687100.jpg&dcHint=BrazilSouth&fileToken=fe83367a-eb17-4d98-bd68-99fdb45d58b4"
+    },
+    {
+      "id": 6,
+      "titulo": "Cabelos",
+      "descricao": "Igual o facial porém, para mão",
+      "imagem": "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/4a34daf88eacc51b/UserAssets/dalle-67abd6b8-7ba5-4d1f-aa11-6cac2f2c628a0251712514931029394900.jpg&dcHint=BrazilSouth&fileToken=fe83367a-eb17-4d98-bd68-99fdb45d58b4"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+
+  "produtos": [
+    {
+      "id": 1,
+      "titulo": "Rímel",
+      "descricao": "Wink-pink sai facil",
+      "preco":"13.00",
+      "imagem": "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/4a34daf88eacc51b/UserAssets/dalle-f7b03b25-71d6-462c-8318-197dbc3d8c580251712534551337087500.jpg&dcHint=BrazilSouth&fileToken=fe83367a-eb17-4d98-bd68-99fdb45d58b4"
+    },
+    {
+      "id": 2,
+      "titulo": "Batom",
+      "descricao": "Mostre seu lado Sexy",
+      "preco":"13.00",
+      "imagem": "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/4a34daf88eacc51b/UserAssets/dalle-a9c6508f-2509-4558-96b7-d0a33b0a0a760251712511166960378400.jpg&dcHint=BrazilSouth&fileToken=fe83367a-eb17-4d98-bd68-99fdb45d58b4"
+    },
+    {
+      "id": 3,
+      "titulo": "Creme Facial",
+      "descricao": "Uma pele macia",
+      "preco":"13.00",
+      "imagem": "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/4a34daf88eacc51b/UserAssets/dalle-1c590693-9ee5-4795-8693-f03bbe6468490251712509926767761300.jpg&dcHint=BrazilSouth&fileToken=fe83367a-eb17-4d98-bd68-99fdb45d58b4"
+    },
+    {
+      "id": 4,
+      "titulo": "Esfoliante",
+      "descricao": "Encera até panela",
+      "preco":"13.00",
+      "imagem": "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/4a34daf88eacc51b/UserAssets/dalle-8fcae9a6-99f7-40a4-8862-8168f8cf18100251712509368880331600.jpg&dcHint=BrazilSouth&fileToken=fe83367a-eb17-4d98-bd68-99fdb45d58b4"
+    },
+    {
+      "id": 5,
+      "titulo": "Perfume",
+      "descricao": "Com ativos que cuidam do seu cheiro",
+      "preco":"13.00",
+      "imagem": "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/4a34daf88eacc51b/UserAssets/dalle-ce51a05e-8bc1-4926-8f81-6e7903a8c81c0251712509244785342700.jpg&dcHint=BrazilSouth&fileToken=fe83367a-eb17-4d98-bd68-99fdb45d58b4"
+    },
+    {
+      "id": 6,
+      "titulo": "Creme de mão",
+      "descricao": "Igual o facial porém, para mão",
+      "preco":"13.00",
+      "imagem": "https://designerapp.officeapps.live.com/designerapp/document.ashx?path=/4a34daf88eacc51b/UserAssets/dalle-140937b1-f851-44ad-b94b-b1353c16abda0251712508976827786500.jpg&dcHint=BrazilSouth&fileToken=fe83367a-eb17-4d98-bd68-99fdb45d58b4"
+    }
+
+  ]
+
 }
